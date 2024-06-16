@@ -108,6 +108,7 @@ body {
 
 .logo {
   text-align: left;
+  margin-bottom: 0.9rem;
 }
 .special-text {
   color: var(--color-primary);

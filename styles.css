@@ -1187,6 +1187,10 @@ h3::after {
     right: 1rem;
   }
 
+  .navigation-nav {
+    align-items: flex-end;
+    padding-bottom: 1rem;
+  }
   .section-gallery {
     padding: 0;
   }
